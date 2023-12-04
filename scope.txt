@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 welcome to scope india jos 
+@adlin2025 has invited you to collaborate on the
+adlin2025/joshma repository
+
 =======
 joshma
 >>>>>>> a6093a58f09d918d2b4d488d30e141a14327fade
